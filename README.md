@@ -1,5 +1,5 @@
 # TestEX1-Emmely Lundberg cph-el69
-This repo consist of a Java implementation of the Triangle program. The instruction to the assignment can be found [here](https://gyazo.com/d4e9cd20c95133ce840e483b27eee6e7).
+This repo consist of a Java implementation of the Triangle program. The assignment instruction can be found [here](https://gyazo.com/d4e9cd20c95133ce840e483b27eee6e7).
 
 ## Test Cases Successful/Unsuccessfull
 
