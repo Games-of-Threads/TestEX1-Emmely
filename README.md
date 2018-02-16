@@ -7,7 +7,7 @@ Test Case No. | Input     |  Expected Output  |   Actual Output   |  Outcome (Pa
 ------------- | --------- | ----------------- | ----------------- | -----------------------
 #1 | 1, 1, 1   | Equilateral       | N/A               | N/A
 #2 | 4, 4, 4   | Equilateral       | N/A               | N/A
-#3 | 4, 1, 1   | Isoceles          | N/A               | N/A
+#3 | 4, 1, 1   |  Error         | N/A               | N/A
 #4 | 1, 3, 3   | Isoceles         | N/A               | N/A
 #5 | 10000, 10000, 10000   | Equilateral       | N/A               | N/A
 #6 | 0, 1, 1   | Error (Ilegal input: 0)       | N/A               | N/A
