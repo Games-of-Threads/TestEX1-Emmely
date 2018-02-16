@@ -16,7 +16,7 @@ Test Case No. | Input     |  Expected Output  |   Actual Output   |  Outcome (Pa
 #9 | 2147483648, 1147483647, 200000   | Error (Out of bounds)       | N/A               | N/A
 #10 | 1.5, 3.8, 2.5 | Error (Ilegal input: floats/doubles) | N/A | N/A
 #11 | 67, 67, 32   | Isoceles       | N/A               | N/A
-#12 | 1994, 1994, 1994   | Equilateral       | N/A               | N/A
+#12 | 2012, 2012, 2012   | Equilateral       | N/A               | N/A
 #13 | 1, 1, 1, 0   | Error       | N/A               | N/A
 #14 | 1, 1   | Error       | N/A               | N/A
 #15 | "One", "Two", "Three"   | Error       | N/A               | N/A
