@@ -12,9 +12,9 @@ Test Case No. | Input     |  Expected Output  |   Actual Output   |  Outcome (Pa
 #5 | 10000, 10000, 10000   | Equilateral       | N/A               | N/A
 #6 | 0, 1, 1   | Error (Ilegal input: 0)       | N/A               | N/A
 #7 | 3, -3, 3   | Error (Ilegal input: -1)       | N/A               | N/A
-#8 | 3, 2, 1   | Scalene       | N/A               | N/A
+#8 | 3, 2, 1   |   Error     | N/A               | N/A
 #9 | 2147483648, 1147483647, 200000   | Error (Out of bounds)       | N/A               | N/A
-#10 | 1.5, 3.8, 2.5 | Error (Ilegal input: floats/doubles) | N/A | N/A
+#10 | 1.5, 3.8, 2.5 | Scalene | N/A | N/A
 #11 | 67, 67, 32   | Isoceles       | N/A               | N/A
 #12 | 2012, 2012, 2012   | Equilateral       | N/A               | N/A
 #13 | 1, 1, 1, 0   | Error       | N/A               | N/A
